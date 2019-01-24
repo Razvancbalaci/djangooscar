@@ -30,3 +30,4 @@ ipython==7.2.0
 
 # Country data
 pycountry==18.12.8
+gunicorn==19.7.1
