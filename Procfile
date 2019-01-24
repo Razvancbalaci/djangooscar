@@ -1,1 +1,1 @@
-web: gunicorn sandbox.wsgi 
+web: gunicorn djangooscar.wsgi 
